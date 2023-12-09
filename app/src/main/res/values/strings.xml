@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="this_is_task_one">this is task one</string>
+    <string name="drop_table_if_exists">DROP TABLE IF EXISTS</string>
+    <string name="to_do_task">To Do Task</string>
+    <string name="to_do">TO_DO</string>
+</resources>
