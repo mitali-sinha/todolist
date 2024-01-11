@@ -1,5 +1,4 @@
 # todolist
-
 # output
 
 ![todo2](https://github.com/mitali-sinha/todolist/assets/153342318/68de7020-46c1-42ed-ad66-a96a4c8a3070)
